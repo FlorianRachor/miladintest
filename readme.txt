@@ -1,1 +1,2 @@
-erste linie \nzweite linie
+new line
+second line
